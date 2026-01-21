@@ -5,4 +5,7 @@ The notebook file contains code for all three approaches.
 The dataset used is CoQA dataset.
 
 .csv file contains results from this notebook. topics.csv contains topics from first 1000 dialogues with 20 questions.
+
+Article draft.docx contains preprint of an article
+
 ![Approaches flowcharts](images/Approaches.png)
